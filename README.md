@@ -18,7 +18,7 @@ identity_time_end datetime
 
 **Getting Started with Clock App:**
 
-'git clone' the project and then run inside 'frontend' directory: "npm install" (could be you will need to do the same in 'backend' directory).
+'git clone' the project **from 'master' branch** and then run inside 'frontend' directory: "npm install" (could be you will need to do the same in 'backend' directory).
 
 **Don't forget:** inside '/backend/config/database.js' enter your mysql password (and change 'user' and 'root' if needed).
 
